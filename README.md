@@ -1,5 +1,5 @@
 # Catch of the day
-Sample ReactJS + Firebase application from Wes Bos's 'introduction to ReactJS'
+Sample ReactJS + Firebase application from Wes Bos's 'introduction to ReactJS'.
 
 ## Run the app locally:
 
